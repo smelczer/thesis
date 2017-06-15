@@ -1,2 +1,3 @@
-# thesis
-Code to go along with the author's PhD thesis at the University of Waterloo and the École normale supérieure de Lyon
+# Files for the PhD Thesis of Stephen Melczer
+
+Maple worksheets for the thesis will be added shortly.
