@@ -1,0 +1,194 @@
+{VERSION 18 2 "Mac OS X" "18.2" }
+{USTYLETAB {PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0
+ 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "War
+ning" -1 7 1 {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 2 2 2 1
+ 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple \+
+Output" -1 12 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 
+0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 
+{CSTYLE "" -1 -1 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0
+ 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier"
+ 1 9 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Heading 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 2 
+2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed O
+utput" -1 6 1 {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 2 2 2 
+1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 
+{CSTYLE "" -1 -1 "Times" 1 16 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Ti
+mes" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Heading 3" -1 5 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 1 1 2
+ 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 
+9 1 {CSTYLE "" -1 -1 "Courier New" 1 12 40 120 40 1 2 2 2 2 2 1 1 0 0 
+1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered List 1" -1 200 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Text Output" -1 2 1 {CSTYLE "" -1 -1 "Cour
+ier New" 1 12 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Ordered List 2" -1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 
+0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "O
+rdered List 3" -1 202 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 
+2 2 1 0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" 
+-1 203 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 108 2 0 2 2 -1 1 }{PSTYLE "Ordered List 5" -1 204 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3
+ 2 144 2 0 2 2 -1 1 }{PSTYLE "Annotation Title" -1 205 1 {CSTYLE "" -1
+ -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 
+2 -1 1 }{PSTYLE "HyperlinkError" -1 206 1 {CSTYLE "" -1 -1 "Courier Ne
+w" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 
+}{PSTYLE "HyperlinkWarning" -1 207 1 {CSTYLE "" -1 -1 "Courier New" 1 
+12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 
+2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Plot" 
+-1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1
+ 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "List Item" -1 14 1 {CSTYLE "" -1 
+-1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Error" 
+-1 8 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 2 2 2 1 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Title" -1 18 1 {CSTYLE ""
+ -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0
+ 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0
+ 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Author"
+ -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 
+1 0 0 8 8 2 0 2 0 2 2 -1 1 }{CSTYLE "Help Variable" -1 25 "Courier" 1 
+12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Bold" -1 41 "
+Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1 34 "Ti
+mes" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Comment" -1 21 "
+Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Popup" -1 31 "Time
+s" 1 12 0 128 128 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Atomic Variable" -1 
+200 "Times" 1 12 175 0 175 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary \+
+Hyperlink" -1 45 "Times" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE 
+"Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D
+ Input" -1 19 "Times" 1 12 0 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Code"
+ -1 201 "Courier New" 1 12 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D \+
+Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 1 2 0 0 0 1 }{CSTYLE "2
+D Math Small" -1 7 "Times" 1 1 0 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "2
+D Math Bold Small" -1 10 "Times" 1 1 0 0 0 1 2 1 2 2 1 2 0 0 0 1 }
+{CSTYLE "Help Bold" -1 39 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 
+}{CSTYLE "2D Output" -1 20 "Times" 1 12 0 0 255 1 2 2 2 2 2 1 0 0 0 1 
+}{CSTYLE "2D Inert Output" -1 202 "Times" 1 12 144 144 144 1 2 2 2 2 1
+ 2 0 0 0 1 }{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier New" 1 12 120 0 14 1 2
+ 1 2 2 1 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "Header and Footer" -1 203 "Times" 1 10 0 
+0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small204" -1 204 "T
+imes" 1 1 0 0 0 1 1 2 2 2 1 2 0 0 0 1 }{CSTYLE "Help Fixed" -1 23 "Cou
+rier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Output Labels" -1 29 
+"Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Notes" -1 37 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 
+44 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic S
+mall" -1 205 "Times" 1 1 0 0 0 1 1 2 2 2 1 2 0 0 0 1 }{CSTYLE "2D Math
+ Symbol 2" -1 16 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D
+ Math" -1 2 "Times" 1 12 0 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Help No
+nterminal" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "
+Annotation Text" -1 206 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Text" -1 207 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1
+ }{CSTYLE "Plot Title" -1 27 "Times" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 
+}{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12 0 0 0 1 1 2 1 2 2
+ 2 0 0 0 1 }{CSTYLE "Caption Reference" -1 208 "Times" 1 12 0 0 0 1 2 
+1 2 2 2 2 0 0 0 1 }{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 2 2 
+2 2 2 0 0 0 1 }{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 1 1
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input Placeholder" -1 209 "Courier \+
+New" 1 12 200 0 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Time
+s" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 22 "
+Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Label" -1 
+210 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Comment" -1 
+18 "Times" 1 12 0 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Help Italic" -1 
+42 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Co
+urier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold" -1 5 "
+Times" 1 12 0 0 0 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Hyperlink" -1 17 "Ti
+mes" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 
+211 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }}
+{SECT 0 {EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 70 "# We calculate the \+
+terms C_n and H_n for non-combinatorial asymptotics" }}}{EXCHG {PARA 0
+ "> " 0 "" {MPLTEXT 1 0 71 "# We want coeffs of P1*P2^n after moding b
+y sufficient variable powers\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 33 
+"P1 := (A*z+d*t1)^2*(A*z+d*t2)^2;\n" }{MPLTEXT 1 0 67 "P2 := (B*z+d*t1
++t3)*(B*z+d*t1+t4)*(B*z+d*t2+t6)*(C*z+2*t1+2*t2+t5);" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "*&,&*&I\"AG6\"\"\"\"I\"zGF&F'F'*&I\"dGF&F'I#t1GF&F'F'
+\"\"#,&F$F'*&F*F'I#t2GF&F'F'F," }}{PARA 11 "" 1 "" {XPPMATH 20 "**,(*&
+I\"BG6\"\"\"\"I\"zGF&F'F'*&I\"dGF&F'I#t1GF&F'F'I#t3GF&F'F',(F$F'F)F'I#
+t4GF&F'F',(F$F'*&F*F'I#t2GF&F'F'I#t6GF&F'F',**&I\"CGF&F'F(F'F'F+\"\"#F
+1F6I#t5GF&F'F'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 91 "# The nth
+ powers of the first three factors of P2, after modding by z^2,t3^2,t4
+^2,t6^2 are\n" }{MPLTEXT 1 0 92 "nPow1 := n*B*z*(d^(n-1)*t1^(n-1)+(n-1
+)*d^(n-2)*t1^(n-2)*t3)+d^n*t1^n+n*d^(n-1)*t1^(n-1)*t3;\n" }{MPLTEXT 1 
+0 28 "nPow2 := subs(t3=t4,nPow1);\n" }{MPLTEXT 1 0 33 "nPow3 := subs(t
+1=t2,t3=t6,nPow1);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",(**I\"nG6\"\"\"\"
+I\"BGF%F&I\"zGF%F&,&*&)I\"dGF%,&F$F&!\"\"F&F&)I#t1GF%F-F&F&**F-F&)F,,&
+F$F&!\"#F&F&)F0F3F&I#t3GF%F&F&F&F&*&)F,F$F&)F0F$F&F&**F$F&F+F&F/F&F6F&
+F&" }}{PARA 11 "" 1 "" {XPPMATH 20 ",(**I\"nG6\"\"\"\"I\"BGF%F&I\"zGF%
+F&,&*&)I\"dGF%,&F$F&!\"\"F&F&)I#t1GF%F-F&F&**F-F&)F,,&F$F&!\"#F&F&)F0F
+3F&I#t4GF%F&F&F&F&*&)F,F$F&)F0F$F&F&**F$F&F+F&F/F&F6F&F&" }}{PARA 11 "
+" 1 "" {XPPMATH 20 ",(**I\"nG6\"\"\"\"I\"BGF%F&I\"zGF%F&,&*&)I\"dGF%,&
+F$F&!\"\"F&F&)I#t2GF%F-F&F&**F-F&)F,,&F$F&!\"#F&F&)F0F3F&I#t6GF%F&F&F&
+F&*&)F,F$F&)F0F$F&F&**F$F&F+F&F/F&F6F&F&" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 61 "# Get expansion of all terms except for (C*z+2*t1+2*t
+2+t5)^n\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 39 "PP := rem(P1*nPow1*n
+Pow2*nPow3,z^2,z):\n" }{MPLTEXT 1 0 44 "TMP := subs(t2^n=T2N,t1^n=T1N,
+ expand(PP)):\n" }{MPLTEXT 1 0 60 "TMP2 := expand(rem(expand(t1*TMP/T1
+N^2),t1^2,t1)/t1*T1N^2):\n" }{MPLTEXT 1 0 53 "allButLast := simplify(s
+ubs(T1N=t1^n,T2N=t2^n,TMP2)):" }{MPLTEXT 1 0 33 "map(simplify,expand(a
+llButLast));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",T*2I\"zG6\"\"\"\"I\"AGF
+%F&)I\"dGF%,&I\"nGF%\"\"$F&F&F&)I#t1GF%,$F+\"\"#F&)I#t2GF%,&F+F&F&F&F&
+F+F0I#t4GF%F&I#t6GF%F&F0*2F$F&F'F&F(F&F-F&F1F&F+F0I#t3GF%F&F5F&F0*0F$F
+&I\"BGF%F&)F),&F+F,F0F&F&F-F&)F2,&F+F&F0F&F&F+F0F7F&F0*0F$F&F9F&F:F&F-
+F&F<F&F+F0F4F&F0*0F$F&F'F&F:F&F-F&F<F&F+F&F7F&F0*0F$F&F'F&F:F&F-F&F<F&
+F+F&F4F&F0*2F$F&F'F&F(F&)F.,&F+F0!\"\"F&F&F<F&F+F0F7F&F4F&F0*2F$F&F9F&
+F(F&FBF&F<F&F+F,F7F&F4F&F0*2F$F&F9F&F(F&FBF&F<F&F+F0F7F&F4F&!\"#*2F$F&
+F'F&F(F&F-F&F1F&F+F0F7F&F4F&F0*2F$F&F9F&F(F&F-F&F1F&F+F,F7F&F5F&F0*2F$
+F&F9F&F(F&F-F&F1F&F+F,F4F&F5F&F0*2F$F&F9F&F(F&F-F&F1F&F+F0F4F&F5F&FD*2
+F$F&F9F&F(F&F-F&F1F&F+F,F7F&F4F&F&*4F$F&F'F&)F),$F+F,F&FBF&F1F&F+F,F7F
+&F4F&F5F&F0*.F:F&F<F&F+F0F-F&F7F&F4F&F&*4F$F&F9F&FNF&FBF&F1F&F+\"\"%F7
+F&F4F&F5F&F0*4F$F&F9F&FNF&FBF&F1F&F+F,F7F&F4F&F5F&FG*4F$F&F9F&FNF&F-F&
+)F2F+F&F+FRF7F&F4F&F5F&F&*4F$F&F9F&FNF&F-F&FUF&F+F,F7F&F4F&F5F&FD*4F$F
+&F'F&FNF&F-F&FUF&F+F,F7F&F4F&F5F&F0*0F$F&F9F&F:F&F-F&F<F&F+F&F7F&FD*0F
+$F&F9F&F:F&F-F&F<F&F+F&F4F&FD*0F(F&F1F&F+F,F-F&F7F&F4F&F5F&F&*2F$F&F9F
+&F(F&F-F&F1F&F+F0F7F&F5F&FD" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+67 "# The only non-zero terms in the final nth power are the following
+\n" }{MPLTEXT 1 0 82 "nPow4 := add(mul(n-k,k=0..j-1)/factorial(j)*(2*t
+2)^(n-j)*(C*z+2*t1+t5)^j,j=0..3):\n" }{MPLTEXT 1 0 60 "nPow4 := rem(re
+m(rem(expand(nPow4),t1^2,t1),z^2,z),t5^2,t5);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ",&*.)\"\"#I\"nG6\"\"\"\")I#t2GF'F&F(F&F(,2**I\"CGF'F(F&F%
+I#t1GF'F(I\"zGF'F(F(**F-F(F&F(F.F(F/F(!\"$**F-F(F&F(F*F(F/F(F(*(F-F(F.
+F(F/F(F%*(F-F(F*F(F/F(!\"\"*(F&F(F.F(F*F(F%*&F.F(F*F(!\"#*$F*F%F%F(F*F
+1I#t5GF'F(#F(\"\"%**F$F(F)F(F*F8,,F,F(F0F5F2F(F6F%F9F%F(#F(F%" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 59 "# Find the final result afte
+r modding by sufficient powers\n" }{MPLTEXT 1 0 55 "# Some Maple hacks
+ to get around using symbolic powers\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT
+ 1 0 74 "allPowers := rem(subs(t1^n=T1N,t2^n=T2N,expand(allButLast*nPo
+w4)),z^2,z):\n" }{MPLTEXT 1 0 45 "TMP := rem(expand(allPowers*t1),t1^2
+,t1)/t1:\n" }{MPLTEXT 1 0 44 "TMP2 := rem(expand(TMP*t2^2),t2^3,t2)/t2
+^2:\n" }{MPLTEXT 1 0 44 "finalResult := subs(T1N=t1^n,T2N=t2^n,TMP2):"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 34 "# Test for n=5 (takes 10 seconds)\n" }{MPLTEXT 
+1 0 107 "TST := rem(rem(rem(rem(rem(rem(rem(P2^5*P1,z^2,z),t3^2,t3),t4
+^2,t4),t5^2,t5),t6^2,t6),t2^11,t2),t1^11,t1):\n" }{MPLTEXT 1 0 31 "TST
+2 := subs(n=5,finalResult):\n" }{MPLTEXT 1 0 17 "expand(TST-TST2);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 27 "# The constant C_n is then\n" }{MPLTEXT 1 0 9 "simpli
+fy(" }{MPLTEXT 1 0 53 "subs(z=0,t1=1,t2=1,t3=1,t4=1,t5=1,t6=1,finalRes
+ult));" }}{PARA 11 "" 1 "" {XPPMATH 20 "*()\"\"#,&I\"nG6\"\"\"\"!\"\"F
+(F()I\"dGF',&F&\"\"$F(F(F(F&\"\"%" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 39 "# The constant H_n is more complicated\n" }{MPLTEXT 
+1 0 6 "HH := " }{MPLTEXT 1 0 74 "factor(subs(d^n=Dn,2^n=Tn,z=1,t1=1,t2
+=1,t3=1,t4=1,t5=1,t6=1,finalResult));" }}{PARA 11 "" 1 "" {XPPMATH 20 
+",$**I#DnG6\"\"\"$I\"nGF%F&I#TnGF%\"\"\",B*(I\"BGF%F)I\"dGF%F)F'\"\"#
+\"\"%*&F,F)F'F&F/*(I\"CGF%F)F-F.F'F)F)*(F2F)F-F)F'F.F)*(I\"AGF%F)F-F)F
+'F)F/*&F5F)F'F.F/*(F,F)F-F)F'F)F.*&F,F)F'F.\"\"'*&F2F)F-F.!\"\"*(F2F)F
+-F)F'F)F)*&F5F)F-F)\"\")*&F5F)F'F)\"#7*&F,F)F'F)!\"'*&F-F)F'F)F.F5F>F,
+!\"%F)#F)F/" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 45 "# Using A = \+
+h + d + d*log(2*n+1) #       B = " }{MPLTEXT 1 0 37 "h + d + d*log(2*n
++1) + log(d) + 2#   " }{MPLTEXT 1 0 53 "and C = 4*log(2*n+1) + 1,# we \+
+obtain the O~ estimate\n" }{MPLTEXT 1 0 9 "simplify(" }{MPLTEXT 1 0 
+46 "subs(n=1,A = h+d,B=h+d,C=1,Dn=d^n,Tn=2^n,HH));" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 "*(,(*$I\"dG6\"\"\"#\"\"**&,&I\"hGF&F(\"#9\"\"\"F-F%F-F-F
++\"#7F-)F%,$I\"nGF&\"\"$F-)F',&F1F-!\"\"F-F-" }}}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 32 "# This is in O~(2^n*D^3*d*(h+d))" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 0 "" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 15 10 1804 1 1 1 1 }{PAGENUMBERS 0 1
+ 2 33 1 1 }
